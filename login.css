@@ -1,0 +1,16 @@
+body {
+  font-family:"Arial";
+  background-color:#d0e4fe;
+  text-align: center;
+}
+
+div {
+  width: 40%;
+  margin: 0 auto;
+}
+
+body.help {
+  font-family:"Arial";
+  background-color:#d0e4fe;
+  text-align: left;
+}

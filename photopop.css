@@ -1,0 +1,43 @@
+body {
+  font-family:"Arial";
+  background-color:#d0e4fe;
+  padding: 5px;
+}
+table.menu {
+border:2px solid blue;
+background-color:#6699dd;
+border-radius: 5px;
+padding: 5px;
+margin-top:10px;
+margin-bottom:20px;
+}
+td.menu {
+border:0;
+}
+
+table.header {
+border:0;
+}
+td.header {
+border:0;
+}
+
+table {
+border:1px solid black;
+border-radius: 5px;
+padding: 5px;
+}
+
+td{
+border:0px solid black;
+}
+
+a.menu:link{
+color:#ffffff
+}
+a.menu:visited{
+color:#C0CCCC 
+}
+
+
+
